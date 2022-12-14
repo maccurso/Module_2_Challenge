@@ -114,9 +114,9 @@ def save_qualifying_loans(qualifying_loans):
     # if no results are shown the system will output a message and user is exited
     # if results are shown, user is asked to save to a csv file
     # if user says yes, user is prompted with a question to enter the file path
-    # if user says no, user is exited
+    # if user says no, user is exited """
 
-    # MA needs help with user entering path to save file """
+    # Max Accurso needs help with user entering path to save file 
 
 
     if len(qualifying_loans) > 0:
