@@ -1,6 +1,6 @@
 # Module_2_Challenge
 
-This is a command-line interface application to match applicants with qualifying loans. 
+This is a command-line interface application to match applicants with qualifying loans. The program was created to match loan applicants with specfic banks willing to underwrite the requested loan. 
 
 ---
 
@@ -40,4 +40,19 @@ python app.py
 
 Upon launching the application you will be greeted with the following prompts (the numbers entered are for demonstration purposes only).
 
-![Qualifying Loans CLI](
+![Qualifying Loans CLI](images/prompts.png)
+
+---
+
+---
+
+## Contributors
+
+Created by Maximus Accurso
+
+---
+
+## License
+
+MIT
+
