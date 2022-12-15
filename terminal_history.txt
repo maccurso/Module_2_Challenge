@@ -1,0 +1,49 @@
+    1  pwd
+    2  ls
+    3  cd fintech-workspace
+    4  cd desktop
+    5  ls
+    6  cd fintech-workspace
+    7  ls
+    8  cd python_project
+    9  ls
+   10  cd module_2
+   11  ls
+   12  cd challenge_assignment
+   13  ls
+   14  cd module_2_challenge
+   15  ls
+   16  cd loan_qualifier_app
+   17  git status
+   18  git status
+   19  git add README.md
+   20  git add app.py
+   21  git status
+   22  cd ..
+   23  git add README.md
+   24  git status
+   25  git status
+   26  git add README.md
+   27  cd loan_qualifier_app
+   28  git add app.py
+   29  git status
+   30  cd ..
+   31  git add README.md
+   32  git status
+   33  git push
+   34  git status
+   35  git commit -m "cleaned up app.py and added info to README"
+   36  git push
+   37  git add README.md
+   38  git add README.md
+   39  git commit -m "final review and changes"
+   40  git push
+   41  git merge origin/main
+   42  git status
+   43  git push
+   44  git push --help
+   45  git pull
+   46  git status
+   47  git commit -m "final edits and review"
+   48  git push
+   49  history 50 > terminal_history.txt
